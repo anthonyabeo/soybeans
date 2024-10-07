@@ -7,5 +7,10 @@
 </head>
 <body>
     This is the index not page
+    <h1 style = "font-weight: bold; font-family: monospace">Welcome to Web TEch class</h1>
+    <p>There is no quiz today</p>
+
+    
+<!-- so does this comment pop up? -->
 </body>
 </html>
