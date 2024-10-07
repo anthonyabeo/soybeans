@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    This is the index page
+    This is the index not page
 </body>
 </html>
